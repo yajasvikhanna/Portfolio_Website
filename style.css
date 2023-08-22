@@ -395,14 +395,16 @@ body,html
 
 @media (max-width:500px)
 {
-
     #main
     {
         width: 100%;
         overflow-x: hidden;
     }
     
-    
+    #short-about
+    {
+        display: none;
+    }
     
     #footer
     {
